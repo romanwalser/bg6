@@ -9,7 +9,7 @@ const Home = (props) => {
     <div className="home-container">
       <Helmet>
         <title>Bulgarian TV News</title>
-        <meta property="og:title" content="TV News Digest" />
+        <meta property="og:title" content="Bulgarian TV News" />
       </Helmet>
       <a
         href="https://openadvices.com/short/86420?stream_uuid=4a8afb43-406c-4d97-9b3c-305633667b80&trek=1"
