@@ -8,7 +8,7 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>TV News Digest</title>
+        <title>Bulgarian TV News</title>
         <meta property="og:title" content="TV News Digest" />
       </Helmet>
       <a
