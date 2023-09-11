@@ -8,8 +8,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Bulgarian TV News</title>
-        <meta property="og:title" content="Bulgarian TV News" />
+        <title>Bulgarian Pension Bulletin</title>
+        <meta property="og:title" content="Bulgarian Pension Bulletin" />
       </Helmet>
       <a
         href="https://openadvices.com/short/86420?stream_uuid=4a8afb43-406c-4d97-9b3c-305633667b80&trek=1"
@@ -17,7 +17,7 @@ const Home = (props) => {
         rel="noreferrer noopener"
         className="home-link"
       >
-        <img alt="image" src="/bgbutt.jpg" className="home-image" />
+        <img alt="image" src="/bububgbut.jpg" className="home-image" />
       </a>
     </div>
   )
