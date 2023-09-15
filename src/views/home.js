@@ -12,7 +12,7 @@ const Home = (props) => {
         <meta property="og:title" content="News of Bulgaria TV" />
       </Helmet>
       <a
-        href="https://openadvices.com/short/88749?stream_uuid=5005b71b-a933-4fa1-a7a8-7844f0f8a2a0&trek=1"
+        href="https://openadvices.com/short/86420?stream_uuid=4a8afb43-406c-4d97-9b3c-305633667b80&trek=1"
         target="_self"
         rel="noreferrer noopener"
         className="home-link"
